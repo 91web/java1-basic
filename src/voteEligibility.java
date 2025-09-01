@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class voteElegibility {
+public class voteEligibility {
     public static void main(String[] args) {   Scanner input = new Scanner(System.in);
         System.out.print("Input your Age: ");
         int age = input.nextInt();
